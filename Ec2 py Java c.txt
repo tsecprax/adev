@@ -1,0 +1,15 @@
+C program
+● sudo apt-get update
+● sudo apt-install gcc
+● gcc –version
+● nano add.c (Put your code in this)
+● gcc add.c -o add.out
+● ./add.out
+C ++ Program
+● sudo apt-install g++
+● g++ –version
+● nano add.cpp (Put your code in this)
+● g++ add.cpp -o add.out
+● ./add.out
+For java , install java too (create ubuntu machine instead of aws linux)
+sudo apt install default-jdk
